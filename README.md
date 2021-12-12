@@ -18,3 +18,4 @@ If you don't have firebase installed use the above command.
 ###### NOTE: 
 The firebase credentials are not provided here knowingly for security purposes
 If you want to use backend you can provide your credentials in the place of dummy values.
+Goto src and find file named firebase.js and replace the config data to your project config data
