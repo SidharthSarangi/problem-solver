@@ -9,13 +9,15 @@ Project foundational base -> [Create React App](https://github.com/facebook/crea
 ## Available Scripts
 In the project directory, you can run:
 
-### `npm start`
+## `npm install`
+npm install downloads dependencies defined in a package. json file and generates a node_modules folder with the installed modules
+## `npm start`
 Runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-### `npm i firebase`
+## `npm i firebase`
 If you don't have firebase installed use the above command.
-###### NOTE: 
+##### NOTE: 
 The firebase credentials are not provided here knowingly for security purposes
 If you want to use backend you can provide your credentials in the place of dummy values.
 Goto src and find file named firebase.js and replace the config data to your project config data
